@@ -1,7 +1,7 @@
 Elo Merchant Category Recommendation
 ====================================
 
-The files for Kaggle - Elo Merchant Category Recommendation competition.
+The files for Kaggle - [Elo Merchant Category Recommendation](#https://www.kaggle.com/c/elo-merchant-category-recommendation) competition.
 
 * Exploratory Data Analysis
 	* [1.1_Descriptives](https://github.com/Zol-S/kaggle/blob/master/Elo%20Merchant%20Category%20Recommendation/1.1_Descriptives.ipynb): Contains the descriptive analysis of the separate data sources
@@ -12,4 +12,4 @@ The files for Kaggle - Elo Merchant Category Recommendation competition.
 	* [2.3_Autoencoder](https://github.com/Zol-S/kaggle/blob/master/Elo%20Merchant%20Category%20Recommendation/2.3_Autoencoder.ipynb): Autoencoder for outlier separation
 * Training, building trees etc.
 	* [4.1_LightGBM_1](https://github.com/Zol-S/kaggle/blob/master/Elo%20Merchant%20Category%20Recommendation/4.1_Training.ipynb): LightGBM
-	* [4.2_LightGBM_1](https://github.com/Zol-S/kaggle/blob/master/Elo%20Merchant%20Category%20Recommendation/4.2_Training.ipynb): LightGBM
+	* [4.2_LightGBM_2](https://github.com/Zol-S/kaggle/blob/master/Elo%20Merchant%20Category%20Recommendation/4.2_Training.ipynb): LightGBM
