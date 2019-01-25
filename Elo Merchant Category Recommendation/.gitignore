@@ -4,3 +4,5 @@ output/*
 logs/*
 features/*
 models/*
+LynxKite_export/*
+preprocessed/*
