@@ -1,4 +1,6 @@
 .ipynb_checkpoints
+archives/*
 credentials/*
 downloads/*
 input/*
+temporary/*
