@@ -1,3 +1,7 @@
+Kaggle_submitter.ipynb
 .ipynb_checkpoints
+archives/*
+credentials/*
 input/*
 output/*
+temporary/*
