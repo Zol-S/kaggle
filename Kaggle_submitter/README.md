@@ -2,6 +2,11 @@ Kaggle Submitter
 ================
 
 Installation:
+- Create the following folders:
+	- _archives_: CSV and ipynb files are stored here in ZIP files.
+	- _credentials_: Credentials to access Kaggle and Google Spreadsheet are stored under this folder.
+	- _temporary_: Temporary files (Competition leaderboards etc.) will be stored under this folder.
+	- _input_: Optional folder (also the name can be changed), copy incoming either to this folder of to the root of the Kaggle submitter script 
 - Create a Kaggle token: login to kaggle.com, then click on _My Profile_, _Edit Profile_ and _Create New API Token_ to download __kaggle.json__ and copy it to
 `C:\Users\<Windows-username>\.kaggle\kaggle.json` on Windows
 `chmod 600 ~/.kaggle/kaggle.json` on Linux.
