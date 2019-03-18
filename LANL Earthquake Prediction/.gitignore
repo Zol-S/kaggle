@@ -4,4 +4,5 @@ archives/*
 credentials/*
 input/*
 output/*
+preprocessed/*
 temporary/*
