@@ -1,6 +1,7 @@
 Kaggle_submitter.ipynb
 .ipynb_checkpoints
 archives/*
+catboost_info/*
 credentials/*
 input/*
 output/*
